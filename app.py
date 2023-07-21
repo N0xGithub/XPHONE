@@ -15,7 +15,7 @@ print(Colorate.Vertical(Colors.black_to_red, """
                                     ██╔╝ ██╗██║     ██║  ██║╚██████╔╝██║ ╚████║███████╗
                                     ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   
                                     +--------------------------------------------------+
-                                                    By N0x, KSCH & Zqx           
+                                                    By N0x and KSCH 
                                                    """, 1))
 
 for i in tqdm(range(100), desc=Colors.yellow + "Loading" + Colors.white, ascii=False, ncols=75):
